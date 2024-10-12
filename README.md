@@ -1,1 +1,1 @@
-# duhacks-2024-spectacles-project
+# dubhacks-2024-spectacles-project
